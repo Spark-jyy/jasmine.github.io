@@ -11,3 +11,5 @@ MQMR soultions srl is a italian-headquatered company providing GMP sevices for p
 
 ## Contacts
 Email: example@company.com
+
+![image](https://github.com/user-attachments/assets/e818c99b-fbfc-41a9-be4d-3ce12f28a39b)
